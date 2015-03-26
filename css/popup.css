@@ -1,0 +1,26 @@
+body 
+{
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+    font-size: 100%;
+}
+
+a{
+	color: #E73535;
+	font-size: 15px;
+}
+
+#fetching{
+	width: 400px;
+	padding: 15px;
+	font-weight: bold;
+	background: grey;
+	color: aliceblue;
+	text-align: -webkit-center
+}
+
+#score-section{
+	width: 400px;
+	font-size: 15px;
+	padding: 15px;
+	color: #E73535;
+}
