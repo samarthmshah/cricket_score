@@ -1,10 +1,11 @@
-Made this app using an endpoint of cricInfo, also I'm a cricket enthusiast!
+Made this Google Chrome extension using endpoint of cricInfo - a website for live cricket scores.
 
 How to load the extension :
 	
 	0. Download the zip file and unzip it.
 	
-	1. Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
+	1. Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:
+	  The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
 
 	2. Ensure that the Developer mode checkbox in the top right-hand corner is checked.
 
